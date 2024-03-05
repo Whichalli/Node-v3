@@ -1,5 +1,5 @@
 {
-  "name": "flutterwave-node-v3",
+  "name": "pv-flutterwave-node-v3",
   "version": "1.1.7",
   "description": "The official Node.JS library for Flutterwave v3 payment APIs",
   "main": "index.js",
